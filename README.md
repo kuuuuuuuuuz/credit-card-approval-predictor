@@ -1,6 +1,6 @@
 # Credit Card Approval Prediction / Прогнозирование одобрения кредитных карт
 
-## English Version
+## EN
 ### Project Overview
 Machine learning model to automate credit card approval decisions based on socio-demographic data.
 
@@ -16,7 +16,7 @@ Machine learning model to automate credit card approval decisions based on socio
 
 ---
 
-## Русская версия
+## RU
 ### Описание проекта
 Модель машинного обучения для автоматизации принятия решений о выдаче кредитных карт на основе данных клиентов.
 
