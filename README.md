@@ -1,6 +1,11 @@
 # Credit Card Approval Prediction / Прогнозирование одобрения кредитных карт
 
-## EN
+## 🇺🇸 English Version
+
+### Dataset
+**Name:** Credit Card Approval Dataset  
+**Source:** [[Credit_card.csv](https://www.kaggle.com/datasets/vishwas199728/credit-card)]
+
 ### Project Overview
 Machine learning model to automate credit card approval decisions based on socio-demographic data.
 
@@ -16,7 +21,12 @@ Machine learning model to automate credit card approval decisions based on socio
 
 ---
 
-## RU
+## 🇷🇺 Русская версия
+
+### Датасет
+**Название:** Credit Card Approval Dataset  
+**Источник:** [[Credit_card.csv](https://www.kaggle.com/datasets/vishwas199728/credit-card)]
+
 ### Описание проекта
 Модель машинного обучения для автоматизации принятия решений о выдаче кредитных карт на основе данных клиентов.
 
